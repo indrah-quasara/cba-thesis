@@ -1,0 +1,11 @@
+airplane,automobile,bird,cat,deer,dog,frog,horse,ship,truck,Negated Search Query,Search Method
+3283,875,647,441,378,362,491,775,896,1852,not airplane,Normal Search
+631,3626,329,287,825,260,326,931,621,2164,not  automobile,Normal Search
+634,5,3963,852,1389,1110,1536,319,11,181,not bird,Normal Search
+137,55,958,3095,997,2774,1124,604,12,244,not cat,Normal Search
+181,156,1234,412,4242,1154,545,1424,125,527,not deer,Normal Search
+15,7,866,2019,1219,3441,1207,1112,4,110,not dog,Normal Search
+273,74,1955,1138,1045,671,4250,281,68,245,not frog,Normal Search
+48,3,1067,859,2662,1256,544,3484,6,71,not horse,Normal Search
+1343,741,326,653,295,681,234,890,3251,1586,not ship,Normal Search
+1362,2498,256,396,424,435,378,337,816,3098,not truck,Normal Search
