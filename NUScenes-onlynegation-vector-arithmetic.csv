@@ -1,0 +1,17 @@
+movable_object.trafficcone,human.pedestrian.adult,vehicle.car,movable_object.pushable_pullable,movable_object.barrier,vehicle.bus.rigid,vehicle.truck,vehicle.motorcycle,vehicle.bicycle,human.pedestrian.construction_worker,vehicle.construction,vehicle.trailer,human.pedestrian.personal_mobility,movable_object.debris,static_object.bicycle_rack,human.pedestrian.police_officer,human.pedestrian.child,vehicle.bus.bendy,human.pedestrian.wheelchair,human.pedestrian.stroller,animal,vehicle.emergency.police,vehicle.ego,vehicle.emergency.ambulance,Negated Search Query,Search Method
+186,851,634,32,96,11,94,39,101,28,19,38,20,4,12,0,2,0,0,1,3,0,0,0,trafficone,Vector-Arithmetics
+576,1023,630,72,215,11,89,116,150,74,26,28,23,15,51,7,2,0,0,1,0,0,1,0,adult,Vector-Arithmetics
+841,1656,1676,25,662,58,287,102,147,66,48,28,10,31,41,2,8,1,1,3,6,2,0,1,car,Vector-Arithmetics
+1308,2256,2344,39,1770,74,357,156,185,262,93,11,16,37,36,11,19,0,2,9,2,1,0,0,truck,Vector-Arithmetics
+703,1213,1337,21,415,32,183,41,86,41,29,26,52,18,14,4,12,3,0,5,4,4,0,0,motorcycle,Vector-Arithmetics
+291,316,1126,9,303,13,149,24,20,24,11,26,6,14,4,5,1,0,0,0,4,1,0,0,bicycle,Vector-Arithmetics
+419,1106,3560,30,364,115,364,178,108,51,25,41,10,20,18,2,8,7,0,1,2,1,0,1,construction_worker,Vector-Arithmetics
+431,1499,2802,26,493,156,421,242,207,57,27,10,7,31,28,0,8,4,0,0,1,1,0,0,construction,Vector-Arithmetics
+329,1659,872,11,379,13,86,117,58,15,11,12,4,27,9,4,23,4,0,2,6,0,0,0,trailer,Vector-Arithmetics
+377,736,1417,6,329,35,222,47,39,28,22,61,1,11,4,1,10,0,0,0,2,0,0,0,bicyle_rack,Vector-Arithmetics
+591,881,1187,48,183,16,190,72,179,60,43,71,80,8,44,2,3,0,0,2,1,0,0,0,police_officer,Vector-Arithmetics
+2112,861,4448,17,1661,102,523,58,47,72,72,102,1,37,16,19,8,15,0,5,3,5,0,2,child,Vector-Arithmetics
+577,368,998,27,408,18,202,41,89,109,39,62,1,15,11,0,0,2,0,0,0,0,0,0,stroller,Vector-Arithmetics
+340,456,1490,8,356,20,108,33,39,11,6,7,1,10,8,3,1,4,0,0,0,2,0,1,animal,Vector-Arithmetics
+723,744,867,51,461,25,210,35,57,92,57,119,23,25,17,3,4,0,0,2,0,0,0,0,police car,Vector-Arithmetics
+248,686,496,13,119,6,84,27,196,9,18,14,1,6,4,1,33,0,0,0,4,0,0,0,ambulance,Vector-Arithmetics
