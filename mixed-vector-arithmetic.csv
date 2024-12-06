@@ -1,0 +1,31 @@
+movable_object.trafficcone,human.pedestrian.adult,vehicle.car,movable_object.pushable_pullable,movable_object.barrier,vehicle.bus.rigid,vehicle.truck,vehicle.motorcycle,vehicle.bicycle,human.pedestrian.construction_worker,vehicle.construction,vehicle.trailer,human.pedestrian.personal_mobility,movable_object.debris,static_object.bicycle_rack,human.pedestrian.police_officer,human.pedestrian.child,vehicle.bus.bendy,human.pedestrian.wheelchair,human.pedestrian.stroller,animal,vehicle.emergency.police,vehicle.ego,vehicle.emergency.ambulance,Full Search Search Query,Search Method
+3082,5628,7561,381,2589,1211,3504,1892,1511,1092,986,113,48,365,262,34,134,14,5,35,19,11,0,4,Text: trafficone Negation: car,Vector-Arithmetics MAG 1.0
+3010,5110,6812,328,2323,1130,3362,1519,1278,918,898,229,44,319,282,34,143,21,4,56,26,18,0,5,Text: trafficone Negation: car,Vector-Arithmetics MAG 2.0
+2753,4675,7441,267,1762,1033,3261,1370,947,702,746,414,38,213,210,53,142,23,7,48,19,23,0,7,Text: adult Negation: bicycle,Vector-Arithmetics MAG 1.0
+2960,4677,7059,295,2161,959,3127,1418,1038,867,871,282,51,252,241,38,127,20,5,45,19,14,0,6,Text: adult Negation: bicycle,Vector-Arithmetics MAG 2.0
+2433,5246,6246,321,1584,928,2851,1631,1411,850,605,229,71,216,364,58,136,15,4,35,24,10,1,2,Text: construction_worker Negation: construction,Vector-Arithmetics MAG 1.0
+1787,4826,6748,310,894,987,2706,1821,1383,366,258,140,68,147,226,32,121,8,4,30,17,7,0,3,Text: construction_worker Negation: construction,Vector-Arithmetics MAG 2.0
+1917,4998,5991,217,1085,628,2105,1171,1332,403,306,181,72,154,338,77,124,12,6,45,26,27,0,3,Text: police_officer Negation: ambulance,Vector-Arithmetics MAG 1.0
+1766,3407,4768,146,831,387,1739,688,1043,215,277,261,30,125,263,58,114,17,3,41,25,10,0,5,Text: police_officer Negation: ambulance,Vector-Arithmetics MAG 2.0
+2986,3976,5971,327,1857,615,2483,1488,1097,868,801,255,103,260,282,56,91,18,1,18,31,17,1,4,Text: animal Negation: child,Vector-Arithmetics MAG 1.0
+3102,4150,5998,293,2126,719,2559,1346,1007,918,867,212,120,266,292,46,81,18,1,18,28,15,0,3,Text: animal Negation: child,Vector-Arithmetics MAG 2.0
+1583,3965,3883,295,951,519,1460,1082,1650,434,381,181,172,117,460,16,97,11,6,32,26,8,0,1,Text: stroller Negation: police car,Vector-Arithmetics MAG 1.0
+1987,3931,4117,305,1102,599,1742,936,1473,525,465,270,200,158,475,14,104,26,5,43,32,6,0,3,Text: stroller Negation: police car,Vector-Arithmetics MAG 2.0
+1867,4486,5633,230,1066,631,2187,1532,2484,346,321,206,155,146,686,40,176,13,1,60,31,12,0,6,Text: bicycle Negation: trailer,Vector-Arithmetics MAG 1.0
+1838,4702,5758,283,957,657,2183,1326,2146,297,278,198,117,133,589,37,184,20,2,56,33,13,0,6,Text: bicycle Negation: trailer,Vector-Arithmetics MAG 2.0
+3207,5636,7615,395,2589,1144,3379,1900,1453,1053,999,117,56,341,285,34,139,15,6,40,19,7,0,5,Text: trafficone Negation: truck,Vector-Arithmetics MAG 1.0
+3149,5381,7240,366,2434,1036,3214,1719,1395,1009,967,136,76,314,317,31,142,18,7,47,23,10,0,8,Text: trafficone Negation: truck,Vector-Arithmetics MAG 2.0
+2427,4082,7298,190,1428,896,3354,1851,908,472,517,596,41,140,245,43,90,25,1,26,14,22,0,8,Text: motorcycle Negation: bicyle_rack,Vector-Arithmetics MAG 1.0
+2191,3782,6368,178,1237,746,2813,1322,788,423,489,451,34,180,211,34,78,22,2,33,18,10,0,5,Text: motorcycle Negation: bicyle_rack,Vector-Arithmetics MAG 2.0
+2981,2834,3331,278,2088,231,1349,646,961,1008,982,233,66,187,169,27,57,13,2,16,17,7,2,4,Text: construction Negation: ambulance,Vector-Arithmetics MAG 1.0
+2344,2616,3406,201,1380,249,1353,458,802,525,613,291,52,128,196,29,74,14,4,23,23,6,0,5,Text: construction Negation: ambulance,Vector-Arithmetics MAG 2.0
+2376,4143,7214,215,1174,802,3174,1367,1143,415,475,391,60,115,287,37,89,34,1,33,16,15,0,7,Text: car Negation: police_officer,Vector-Arithmetics MAG 1.0
+2334,3582,6255,252,1171,695,2633,1325,1129,517,535,303,81,140,262,22,66,19,2,19,16,7,0,4,Text: car Negation: police_officer,Vector-Arithmetics MAG 2.0
+1946,4332,6438,352,1267,860,2452,1487,1399,457,438,175,53,186,282,16,127,22,7,66,25,16,1,7,Text: child Negation: construction_worker,Vector-Arithmetics MAG 1.0
+1503,3793,6150,189,733,686,2223,1062,1060,211,230,297,69,108,310,16,110,28,6,60,20,30,2,4,Text: child Negation: construction_worker,Vector-Arithmetics MAG 2.0
+2689,4399,6320,404,2096,808,2544,1579,1347,930,865,105,71,266,250,19,105,12,6,26,27,4,0,3,Text: animal Negation: motorcycle,Vector-Arithmetics MAG 1.0
+2801,4605,6330,364,2024,847,2670,1448,1262,855,835,145,79,249,281,33,118,10,5,29,30,5,0,2,Text: animal Negation: motorcycle,Vector-Arithmetics MAG 2.0
+2146,3461,3631,305,1139,486,1797,804,1185,549,509,366,148,141,307,22,81,20,4,24,28,10,0,2,Text: trailer Negation: police car,Vector-Arithmetics MAG 1.0
+1938,3821,3415,286,895,444,1357,779,1369,443,372,282,210,124,411,18,83,11,4,20,24,4,2,2,Text: trailer Negation: police car,Vector-Arithmetics MAG 2.0
+3457,5342,7633,276,2222,1178,3876,1408,1161,888,947,422,44,266,381,48,164,27,6,67,19,20,1,11,Text: adult Negation: stroller,Vector-Arithmetics MAG 1.0
+2946,4739,6809,278,1949,953,3100,1358,1223,774,785,287,52,246,301,36,135,20,4,53,20,15,1,3,Text: adult Negation: stroller,Vector-Arithmetics MAG 2.0
