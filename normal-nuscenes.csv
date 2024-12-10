@@ -1,0 +1,17 @@
+movable_object.trafficcone,human.pedestrian.adult,vehicle.car,movable_object.pushable_pullable,movable_object.barrier,vehicle.bus.rigid,vehicle.truck,vehicle.motorcycle,vehicle.bicycle,human.pedestrian.construction_worker,vehicle.construction,vehicle.trailer,human.pedestrian.personal_mobility,movable_object.debris,static_object.bicycle_rack,human.pedestrian.police_officer,human.pedestrian.child,vehicle.bus.bendy,human.pedestrian.wheelchair,human.pedestrian.stroller,animal,vehicle.emergency.police,vehicle.ego,vehicle.emergency.ambulance,Negated Search Query,Search Method
+4,5,10,1,6,3,2,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Text: trafficone Negation: N,Vector-Arithmetics MAG 0
+1,5,9,0,1,1,7,1,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,Text: adult Negation: N,Vector-Arithmetics MAG 0
+1,5,9,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Text: car Negation: N,Vector-Arithmetics MAG 0
+3,6,3,0,1,0,10,1,1,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Text: truck Negation: N,Vector-Arithmetics MAG 0
+0,5,5,0,0,1,3,9,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Text: motorcycle Negation: N,Vector-Arithmetics MAG 0
+1,4,4,0,0,0,1,0,6,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,Text: bicycle Negation: N,Vector-Arithmetics MAG 0
+4,3,2,0,8,0,1,3,0,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Text: construction worker Negation: N,Vector-Arithmetics MAG 0
+6,0,2,0,6,1,6,1,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,Text: construction Negation: N,Vector-Arithmetics MAG 0
+1,0,0,0,1,0,4,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,Text: trailer Negation: N,Vector-Arithmetics MAG 0
+1,7,3,0,0,0,1,2,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,Text: bicyle rack Negation: N,Vector-Arithmetics MAG 0
+1,5,6,0,1,1,4,1,0,0,0,0,0,0,0,3,0,0,0,0,0,4,0,0,Text: police officer Negation: N,Vector-Arithmetics MAG 0
+0,6,3,0,0,0,1,1,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Text: child Negation: N,Vector-Arithmetics MAG 0
+3,7,1,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Text: stroller Negation: N,Vector-Arithmetics MAG 0
+0,4,4,1,0,0,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Text: animal Negation: N,Vector-Arithmetics MAG 0
+1,3,8,0,1,1,2,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Text: police car Negation: N,Vector-Arithmetics MAG 0
+2,5,9,0,1,1,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Text: ambulance Negation: N,Vector-Arithmetics MAG 0
