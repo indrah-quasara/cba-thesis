@@ -1,0 +1,237 @@
+Inclusion Rate (%),Negation Rate (%),Search Method,Search Type,Inclusion Query,Negation Query
+47.0,76.0,Post Retrieval Filteration,Full Image,adult,trafficcone
+17.0,61.0,Post Retrieval Filteration,Full Image,truck,car
+32.0,87.0,Post Retrieval Filteration,Full Image,bicycle,motorcycle
+34.0,75.0,Post Retrieval Filteration,Full Image,construction,construction worker
+63.0,96.0,Post Retrieval Filteration,Full Image,bicycle rack,trailer
+0.0,98.0,Post Retrieval Filteration,Full Image,child,police officer
+0.0,100.0,Post Retrieval Filteration,Full Image,animal,stroller
+0.0,100.0,Post Retrieval Filteration,Full Image,ambulance,police car
+89.0,49.0,Post Retrieval Filteration,Full Image,car,adult
+62.0,85.0,Post Retrieval Filteration,Full Image,construction worker,truck
+1.0,93.0,Post Retrieval Filteration,Full Image,police officer,bicycle
+94.0,99.0,Post Retrieval Filteration,Full Image,trafficcone,child
+0.0,97.0,Post Retrieval Filteration,Full Image,stroller,bicycle rack
+86.0,100.0,Post Retrieval Filteration,Full Image,motorcycle,animal
+2.0,98.0,Post Retrieval Filteration,Full Image,police car,construction
+0.0,15.0,Normal Search,Full Image,,trafficcone
+0.0,60.0,Normal Search,Full Image,,adult
+0.0,33.0,Normal Search,Full Image,,car
+0.0,14.000000000000002,Normal Search,Full Image,,truck
+0.0,31.0,Normal Search,Full Image,,motorcycle
+0.0,36.0,Normal Search,Full Image,,bicycle
+0.0,56.00000000000001,Normal Search,Full Image,,construction worker
+0.0,77.0,Normal Search,Full Image,,construction
+0.0,47.0,Normal Search,Full Image,,trailer
+0.0,66.0,Normal Search,Full Image,,bicycle rack
+0.0,98.0,Normal Search,Full Image,,police officer
+0.0,98.0,Normal Search,Full Image,,child
+0.0,99.0,Normal Search,Full Image,,stroller
+0.0,100.0,Normal Search,Full Image,,animal
+0.0,100.0,Normal Search,Full Image,,police car
+0.0,99.0,Normal Search,Full Image,,ambulance
+0.0,94.74000000000001,Post-Retrieval-Filteration_0.06,Full Image,,airplane
+0.0,94.43,Post-Retrieval-Filteration_0.07,Full Image,,airplane
+0.0,94.08,Post-Retrieval-Filteration_0.08,Full Image,,airplane
+0.0,94.86,Post-Retrieval-Filteration_0.06,Full Image,,automobile
+0.0,94.08,Post-Retrieval-Filteration_0.07,Full Image,,automobile
+0.0,93.27,Post-Retrieval-Filteration_0.08,Full Image,,automobile
+0.0,96.2,Post-Retrieval-Filteration_0.06,Full Image,,bird
+0.0,96.32,Post-Retrieval-Filteration_0.07,Full Image,,bird
+0.0,96.33,Post-Retrieval-Filteration_0.08,Full Image,,bird
+0.0,94.02000000000001,Post-Retrieval-Filteration_0.06,Full Image,,cat
+0.0,94.57,Post-Retrieval-Filteration_0.07,Full Image,,cat
+0.0,94.61,Post-Retrieval-Filteration_0.08,Full Image,,cat
+0.0,96.5,Post-Retrieval-Filteration_0.06,Full Image,,deer
+0.0,96.0,Post-Retrieval-Filteration_0.07,Full Image,,deer
+0.0,95.50999999999999,Post-Retrieval-Filteration_0.08,Full Image,,deer
+0.0,94.34,Post-Retrieval-Filteration_0.06,Full Image,,dog
+0.0,94.5,Post-Retrieval-Filteration_0.07,Full Image,,dog
+0.0,94.66,Post-Retrieval-Filteration_0.08,Full Image,,dog
+0.0,96.78,Post-Retrieval-Filteration_0.06,Full Image,,frog
+0.0,96.39999999999999,Post-Retrieval-Filteration_0.07,Full Image,,frog
+0.0,95.97,Post-Retrieval-Filteration_0.08,Full Image,,frog
+0.0,95.16,Post-Retrieval-Filteration_0.06,Full Image,,horse
+0.0,95.08,Post-Retrieval-Filteration_0.07,Full Image,,horse
+0.0,94.75,Post-Retrieval-Filteration_0.08,Full Image,,horse
+0.0,94.57,Post-Retrieval-Filteration_0.06,Full Image,,ship
+0.0,94.19,Post-Retrieval-Filteration_0.07,Full Image,,ship
+0.0,93.85,Post-Retrieval-Filteration_0.08,Full Image,,ship
+0.0,92.58999999999999,Post-Retrieval-Filteration_0.06,Full Image,,truck
+0.0,92.43,Post-Retrieval-Filteration_0.07,Full Image,,truck
+0.0,92.21000000000001,Post-Retrieval-Filteration_0.08,Full Image,,truck
+0.0,97.57000000000001, Vector-Arithmetics MAG 1.0,Full Image,,airplane
+0.0,99.95, Vector-Arithmetics MAG 1.0,Full Image,,automobile
+0.0,96.25, Vector-Arithmetics MAG 1.0,Full Image,,bird
+0.0,95.69, Vector-Arithmetics MAG 1.0,Full Image,,cat
+0.0,96.75, Vector-Arithmetics MAG 1.0,Full Image,,deer
+0.0,96.66, Vector-Arithmetics MAG 1.0,Full Image,,dog
+0.0,98.98, Vector-Arithmetics MAG 1.0,Full Image,,frog
+0.0,94.59, Vector-Arithmetics MAG 1.0,Full Image,,horse
+0.0,99.03999999999999, Vector-Arithmetics MAG 1.0,Full Image,,ship
+0.0,90.07, Vector-Arithmetics MAG 1.0,Full Image,,truck
+40.0,69.0,Normal Search,Full Image,adult,trafficcone
+80.0,35.0,Normal Search,Full Image,truck,car
+45.0,57.99999999999999,Normal Search,Full Image,bicycle,motorcycle
+15.0,84.0,Normal Search,Full Image,construction,construction worker
+49.0,100.0,Normal Search,Full Image,bicycle rack,trailer
+0.0,99.0,Normal Search,Full Image,child,police officer
+0.0,100.0,Normal Search,Full Image,animal,stroller
+0.0,98.0,Normal Search,Full Image,ambulance,police car
+78.0,68.0,Normal Search,Full Image,car,adult
+53.0,67.0,Normal Search,Full Image,construction worker,truck
+0.0,28.999999999999996,Normal Search,Full Image,police officer,bicycle
+92.0,99.0,Normal Search,Full Image,trafficcone,child
+0.0,75.0,Normal Search,Full Image,stroller,bicycle rack
+85.0,100.0,Normal Search,Full Image,motorcycle,animal
+2.0,95.0,Normal Search,Full Image,police car,construction
+0.0,67.17,Normal Search,Full Image,,airplane
+0.0,63.739999999999995,Normal Search,Full Image,,automobile
+0.0,60.370000000000005,Normal Search,Full Image,,bird
+0.0,69.05,Normal Search,Full Image,,cat
+0.0,57.58,Normal Search,Full Image,,deer
+0.0,65.59,Normal Search,Full Image,,dog
+0.0,57.49999999999999,Normal Search,Full Image,,frog
+0.0,65.16,Normal Search,Full Image,,horse
+0.0,67.49000000000001,Normal Search,Full Image,,ship
+0.0,69.02000000000001,Normal Search,Full Image,,truck
+0.0,81.0,Post Retrieval Filteration,Full Image,,trafficcone
+0.0,51.0,Post Retrieval Filteration,Full Image,,adult
+0.0,40.0,Post Retrieval Filteration,Full Image,,car
+0.0,78.0,Post Retrieval Filteration,Full Image,,truck
+0.0,88.0,Post Retrieval Filteration,Full Image,,motorcycle
+0.0,91.0,Post Retrieval Filteration,Full Image,,bicycle
+0.0,95.0,Post Retrieval Filteration,Full Image,,construction worker
+0.0,96.0,Post Retrieval Filteration,Full Image,,construction
+0.0,100.0,Post Retrieval Filteration,Full Image,,trailer
+0.0,96.0,Post Retrieval Filteration,Full Image,,bicycle rack
+0.0,100.0,Post Retrieval Filteration,Full Image,,police officer
+0.0,99.0,Post Retrieval Filteration,Full Image,,child
+0.0,100.0,Post Retrieval Filteration,Full Image,,stroller
+0.0,100.0,Post Retrieval Filteration,Full Image,,animal
+0.0,100.0,Post Retrieval Filteration,Full Image,,police car
+0.0,100.0,Post Retrieval Filteration,Full Image,,ambulance
+0.0,78.0,Vector-Arithmetics MAG 0,Full Image,,trafficcone
+0.0,65.0,Vector-Arithmetics MAG 0,Full Image,,adult
+0.0,56.00000000000001,Vector-Arithmetics MAG 0,Full Image,,car
+0.0,98.0,Vector-Arithmetics MAG 0,Full Image,,truck
+0.0,100.0,Vector-Arithmetics MAG 0,Full Image,,motorcycle
+0.0,100.0,Vector-Arithmetics MAG 0,Full Image,,bicycle
+0.0,94.0,Vector-Arithmetics MAG 0,Full Image,,construction worker
+0.0,100.0,Vector-Arithmetics MAG 0,Full Image,,construction
+0.0,100.0,Vector-Arithmetics MAG 0,Full Image,,trailer
+0.0,100.0,Vector-Arithmetics MAG 0,Full Image,,bicycle rack
+0.0,100.0,Vector-Arithmetics MAG 0,Full Image,,police officer
+0.0,100.0,Vector-Arithmetics MAG 0,Full Image,,child
+0.0,100.0,Vector-Arithmetics MAG 0,Full Image,,stroller
+0.0,100.0,Vector-Arithmetics MAG 0,Full Image,,animal
+0.0,100.0,Vector-Arithmetics MAG 0,Full Image,,police car
+0.0,100.0,Vector-Arithmetics MAG 0,Full Image,,ambulance
+56.99999999999999,65.0,Vector-Arithmetics MAG 1.0,Full Image,adult,trafficcone
+88.0,62.0,Vector-Arithmetics MAG 1.0,Full Image,truck,car
+65.0,98.0,Vector-Arithmetics MAG 1.0,Full Image,bicycle,motorcycle
+1.0,100.0,Vector-Arithmetics MAG 1.0,Full Image,construction,construction worker
+63.0,100.0,Vector-Arithmetics MAG 1.0,Full Image,bicycle rack,trailer
+1.0,100.0,Vector-Arithmetics MAG 1.0,Full Image,child,police officer
+0.0,100.0,Vector-Arithmetics MAG 1.0,Full Image,animal,stroller
+0.0,100.0,Vector-Arithmetics MAG 1.0,Full Image,ambulance,police car
+76.0,64.0,Vector-Arithmetics MAG 1.0,Full Image,car,adult
+37.0,91.0,Vector-Arithmetics MAG 1.0,Full Image,construction worker,truck
+1.0,94.0,Vector-Arithmetics MAG 1.0,Full Image,police officer,bicycle
+92.0,98.0,Vector-Arithmetics MAG 1.0,Full Image,trafficcone,child
+0.0,98.0,Vector-Arithmetics MAG 1.0,Full Image,stroller,bicycle rack
+84.0,100.0,Vector-Arithmetics MAG 1.0,Full Image,motorcycle,animal
+0.0,99.0,Vector-Arithmetics MAG 1.0,Full Image,police car,construction
+0.0,0.0,Normal Search,Small Object Search,adult,trafficcone
+0.0,0.0,Normal Search,Small Object Search,truck,car
+0.0,0.0,Normal Search,Small Object Search,bicycle,motorcycle
+0.0,0.0,Normal Search,Small Object Search,construction,construction worker
+0.0,0.0,Normal Search,Small Object Search,bicycle rack,trailer
+0.0,0.0,Normal Search,Small Object Search,child,police officer
+0.0,0.0,Normal Search,Small Object Search,animal,stroller
+0.0,0.0,Normal Search,Small Object Search,ambulance,police car
+0.0,0.0,Normal Search,Small Object Search,car,adult
+0.0,0.0,Normal Search,Small Object Search,construction worker,truck
+0.0,0.0,Normal Search,Small Object Search,police office,bicycle
+0.0,0.0,Normal Search,Small Object Search,trafficcone,child
+0.0,0.0,Normal Search,Small Object Search,stroller,bicycle rack
+0.0,0.0,Normal Search,Small Object Search,motorcycle,animal
+0.0,0.0,Normal Search,Small Object Search,police car,construction
+0.0,59.0,Vector-Arithmetics MAG 0,Small Object Search,,trafficcone
+0.0,44.0,Vector-Arithmetics MAG 0,Small Object Search,,adult
+0.0,77.0,Vector-Arithmetics MAG 0,Small Object Search,,car
+0.0,69.0,Vector-Arithmetics MAG 0,Small Object Search,,truck
+0.0,91.0,Vector-Arithmetics MAG 0,Small Object Search,,motorcycle
+0.0,91.0,Vector-Arithmetics MAG 0,Small Object Search,,bicycle
+0.0,95.0,Vector-Arithmetics MAG 0,Small Object Search,,construction worker
+0.0,97.0,Vector-Arithmetics MAG 0,Small Object Search,,construction
+0.0,96.0,Vector-Arithmetics MAG 0,Small Object Search,,trailer
+0.0,97.0,Vector-Arithmetics MAG 0,Small Object Search,,bicycle rack
+0.0,99.0,Vector-Arithmetics MAG 0,Small Object Search,,police officer
+0.0,100.0,Vector-Arithmetics MAG 0,Small Object Search,,child
+0.0,99.0,Vector-Arithmetics MAG 0,Small Object Search,,stroller
+0.0,100.0,Vector-Arithmetics MAG 0,Small Object Search,,animal
+0.0,100.0,Vector-Arithmetics MAG 0,Small Object Search,,police car
+0.0,100.0,Vector-Arithmetics MAG 0,Small Object Search,,ambulance
+39.0,83.0,Post Retrieval Filteration,Small Object Search,adult,trafficcone
+4.0,93.0,Post Retrieval Filteration,Small Object Search,truck,car
+16.0,96.0,Post Retrieval Filteration,Small Object Search,bicycle,motorcycle
+1.0,99.0,Post Retrieval Filteration,Small Object Search,construction,construction worker
+73.0,100.0,Post Retrieval Filteration,Small Object Search,bicycle rack,trailer
+0.0,100.0,Post Retrieval Filteration,Small Object Search,child,police officer
+2.0,100.0,Post Retrieval Filteration,Small Object Search,animal,stroller
+0.0,100.0,Post Retrieval Filteration,Small Object Search,ambulance,police car
+88.0,50.0,Post Retrieval Filteration,Small Object Search,car,adult
+67.0,89.0,Post Retrieval Filteration,Small Object Search,construction worker,truck
+5.0,100.0,Post Retrieval Filteration,Small Object Search,police officer,bicycle
+87.0,99.0,Post Retrieval Filteration,Small Object Search,trafficcone,child
+5.0,99.0,Post Retrieval Filteration,Small Object Search,stroller,bicycle rack
+86.0,100.0,Post Retrieval Filteration,Small Object Search,motorcycle,animal
+0.0,100.0,Post Retrieval Filteration,Small Object Search,police car,construction
+0.0,11.0,,Small Object Search,,trafficcone
+0.0,48.0,Normal Search,Small Object Search,,adult
+0.0,22.0,Normal Search,Small Object Search,,car
+0.0,28.999999999999996,Normal Search,Small Object Search,,truck
+0.0,17.0,Normal Search,Small Object Search,,motorcycle
+0.0,20.0,Normal Search,Small Object Search,,bicycle
+0.0,21.0,Normal Search,Small Object Search,,construction worker
+0.0,84.0,Normal Search,Small Object Search,,construction
+0.0,31.0,Normal Search,Small Object Search,,trailer
+0.0,61.0,Normal Search,Small Object Search,,bicycle rack
+0.0,100.0,Normal Search,Small Object Search,,police office
+0.0,95.0,Normal Search,Small Object Search,,child
+0.0,59.0,Normal Search,Small Object Search,,stroller
+0.0,100.0,Normal Search,Small Object Search,,animal
+0.0,65.0,Normal Search,Small Object Search,,police car
+0.0,99.0,Normal Search,Small Object Search,,ambulance
+62.0,90.0,Vector-Arithmetics MAG 1.0,Small Object Search,adult,trafficcone
+78.0,55.00000000000001,Vector-Arithmetics MAG 1.0,Small Object Search,truck,car
+84.0,94.0,Vector-Arithmetics MAG 1.0,Small Object Search,bicycle,motorcycle
+3.0,100.0,Vector-Arithmetics MAG 1.0,Small Object Search,construction,construction worker
+81.0,98.0,Vector-Arithmetics MAG 1.0,Small Object Search,bicycle rack,trailer
+0.0,100.0,Vector-Arithmetics MAG 1.0,Small Object Search,child,police officer
+1.0,100.0,Vector-Arithmetics MAG 1.0,Small Object Search,animal,stroller
+7.000000000000001,100.0,Vector-Arithmetics MAG 1.0,Small Object Search,ambulance,police car
+83.0,64.0,Vector-Arithmetics MAG 1.0,Small Object Search,car,adult
+88.0,82.0,Vector-Arithmetics MAG 1.0,Small Object Search,construction worker,truck
+23.0,94.0,Vector-Arithmetics MAG 1.0,Small Object Search,police officer,bicycle
+94.0,99.0,Vector-Arithmetics MAG 1.0,Small Object Search,trafficcone,child
+66.0,93.0,Vector-Arithmetics MAG 1.0,Small Object Search,stroller,bicycle rack
+81.0,100.0,Vector-Arithmetics MAG 1.0,Small Object Search,motorcycle,animal
+62.0,97.0,Vector-Arithmetics MAG 1.0,Small Object Search,police car,construction
+0.0,89.0,Post Retrieval Filteration,Small Object Search,,trafficcone
+0.0,61.0,Post Retrieval Filteration,Small Object Search,,adult
+0.0,84.0,Post Retrieval Filteration,Small Object Search,,car
+0.0,92.0,Post Retrieval Filteration,Small Object Search,,truck
+0.0,97.0,Post Retrieval Filteration,Small Object Search,,motorcycle
+0.0,98.0,Post Retrieval Filteration,Small Object Search,,bicycle
+0.0,99.0,Post Retrieval Filteration,Small Object Search,,construction worker
+0.0,100.0,Post Retrieval Filteration,Small Object Search,,construction
+0.0,99.0,Post Retrieval Filteration,Small Object Search,,trailer
+0.0,100.0,Post Retrieval Filteration,Small Object Search,,bicycle rack
+0.0,99.0,Post Retrieval Filteration,Small Object Search,,police officer
+0.0,99.0,Post Retrieval Filteration,Small Object Search,,child
+0.0,100.0,Post Retrieval Filteration,Small Object Search,,stroller
+0.0,99.0,Post Retrieval Filteration,Small Object Search,,animal
+0.0,100.0,Post Retrieval Filteration,Small Object Search,,police car
+0.0,100.0,Post Retrieval Filteration,Small Object Search,,ambulance
